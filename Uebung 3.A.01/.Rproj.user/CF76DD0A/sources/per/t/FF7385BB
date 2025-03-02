@@ -1,0 +1,27 @@
+{
+    "id": "FF7385BB",
+    "path": "G:/Programming/Projekte/Fortbildung/MachineLearning/Uebung 3.A.01/data_cleanup.R",
+    "project_path": "data_cleanup.R",
+    "type": "r_source",
+    "hash": "3649731237",
+    "contents": "",
+    "dirty": false,
+    "created": 1722284867350.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "27,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1722353091,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1722353091256,
+    "read_only": false,
+    "read_only_alternatives": []
+}

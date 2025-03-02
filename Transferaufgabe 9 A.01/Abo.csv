@@ -1,0 +1,18 @@
+,Erwerbsstatus,Ausbildungsstand,CQF- Alumni,Abo
+1,selbststaendig,Uniabschluss,nein,nein
+2,selbststaendig,Uniabschluss,ja,ja
+3,angestellt,Uniabschluss,ja,ja
+4,Student,Uniabschluss,nein,ja
+5,Student,Student,ja,ja
+6,Student,Student,ja,nein
+7,angestellt,Student,ja,ja
+8,selbststaendig,Uniabschluss,nein,nein
+9,selbststaendig,Student,nein,ja
+10,Student,Student,ja,nein
+11,selbststaendig,Student,ja,ja
+12,angestellt,Uniabschluss,ja,ja
+13,angestellt,Student,nein,ja
+14,Student,Uniabschluss,ja,nein
+15,angestellt,Uniabschluss,nein,nein
+16,Student,Uniabschluss,nein,nein
+17,selbststaendig,Uniabschluss,nein,nein
